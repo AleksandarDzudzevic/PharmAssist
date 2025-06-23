@@ -48,8 +48,8 @@ PharmAssist is a proprietary business application in production use and under ac
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/loyalty-store.png" width="300" alt="Loyalty Store UI" />
-  <img src="screenshots/qr-scan.png" width="300" alt="QR Scan Feature" />
+  <img src="https://github.com/AleksandarDzudzevic/PharmAssist/blob/main/IMG_6849.PNG" width="300" alt="QR and Main Client Screen Feature" />
+  <img src="(https://github.com/AleksandarDzudzevic/PharmAssist/blob/main/IMG_6850.PNG)" width="300" alt="Loyalty Store UI" />
   <img src="https://github.com/AleksandarDzudzevic/PharmAssist/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20Max%20-%202025-05-25%20at%2016.13.23.png" width="300" alt="Loyalty store item UI" />
 </p>
 
