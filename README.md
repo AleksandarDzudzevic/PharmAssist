@@ -1,6 +1,6 @@
 # PharmAssist – AI-Driven Loyalty App for Pharmacies 💊
 
-PharmAssist is a cross-platform mobile loyalty solution designed to help pharmacies engage customers through automated marketing and real-time reward systems. Currently active with paying clients and estimating over 1000 active users, PharmAssist is a growing software product with real business impact.
+PharmAssist is a cross-platform mobile loyalty solution designed to help pharmacies engage customers through automated marketing and real-time reward systems. Currently active with paying clients and estimating over 1000 active users, PharmAssist is a growing software product with real business impact slowly expanding in similar industries such as beauty salons and other areas in need for targted tailored marketing apporach.
 
 ---
 
