@@ -22,7 +22,7 @@ Built with scalability and automation in mind, the app currently integrates with
 |--------|-------------|
 | 🎯 Real-Time Loyalty | QR code scanning syncs purchase data with user profiles instantly |
 | 🏪 Loyalty Store | Dynamic, point-based reward store visible inside the mobile app |
-| 🤖 Automated Campaigns | Personalized promotions sent via Viber/Email using purchase history and LLM prompts |
+| 🤖 Automated Campaigns | Personalized promotions sent via SMS/Email/WhatsApp using purchase history and LLM prompts |
 | 📊 Admin Dashboard | Pharmacists can upload and trigger promotions via simple forms |
 | 📱 Cross-Platform App | Built in React Native and deployed to both iOS and Android |
 
