@@ -50,7 +50,7 @@ PharmAssist is a proprietary business application in production use and under ac
 <p align="center">
   <img src="https://github.com/AleksandarDzudzevic/PharmAssist/blob/main/IMG_6849.PNG" width="300" alt="QR and Main Client Screen Feature" />
   <img src="https://github.com/AleksandarDzudzevic/PharmAssist/blob/main/IMG_6850.PNG" width="300" alt="Loyalty Store UI" />
-  <img src="https://github.com/AleksandarDzudzevic/PharmAssist/blob/main/IMG_6851.PNG" width="300" alt="Loyalty store item UI" />
+  <img src="https://github.com/AleksandarDzudzevic/PharmAssist/blob/main/IMG_6851.jpg" width="300" alt="Loyalty store item UI" />
 </p>
 
 ---
